@@ -14,14 +14,14 @@ SocNetwork::~SocNetwork()
 
 //Здесь будет реализован функционал добавления группы в соц.сети с использованием
 // однонаправленного списка с заголовком.
-void SocNetwork::AddGroup(const Group &)
+void SocNetwork::AddGroup(const Group &grp)
 {
 
 }
 
 //Здесь будет реализован функционал удаления группы из соц.сети с использованием
 // однонаправленного списка с заголовком.
-void SocNetwork::DeleteGroup(const Group &)
+void SocNetwork::DeleteGroup(const Group &grp)
 {
 
 }

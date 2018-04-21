@@ -9,9 +9,9 @@ public:
 
 	~Group();                                        // Деструктор.
 
-	void AddMember(const Member &);                        // Метод "Добавление участника".
+	void AddMember(const Member &);                  // Метод "Добавление участника".
 
-	void DeleteMember(const Member &);                     // Метод "Удаление участника".
+	void DeleteMember(const Member &);               // Метод "Удаление участника".
 
 private:
 	int membersCount;                                // Общее кол-во участников в группе

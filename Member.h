@@ -14,5 +14,5 @@ public:
 
 private:
 	char nickname[10];                 // Никнейм участника
-	char memberStatus[10];             // Статус участника"
+	char memberStatus[10];             // Статус участника
 };
